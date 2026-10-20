@@ -20,8 +20,6 @@ function About() {
             case management.
           </p>
 
-          <p>Before I started building software, I spent years working with it and questioning why it couldn't work better.</p>
-
           <p>
             Before I started building software, I spent years working with it and questioning why it couldn't work better. Working with inefficient healthcare systems sparked my interest in software engineering. I realized I enjoyed finding ways to simplify processes and wanted to be the person building better solutions.
           </p>
