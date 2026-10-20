@@ -23,42 +23,15 @@ function About() {
           <p>Before I started building software, I spent years working with it and questioning why it couldn't work better.</p>
 
           <p>
-            My interest in software engineering actually started with
-            frustration. While working in healthcare, I found myself using
-            systems that often made simple tasks more complicated than they
-            needed to be. I would catch myself thinking about how these
-            processes could be improved, what could be automated, and how I
-            would design things differently. Eventually, I realized I was more
-            interested in improving the systems I worked with than continuing
-            to work within them.
+            Before I started building software, I spent years working with it and questioning why it couldn't work better. Working with inefficient healthcare systems sparked my interest in software engineering. I realized I enjoyed finding ways to simplify processes and wanted to be the person building better solutions.
           </p>
 
           <p>
-            That curiosity led me to pursue computer science, where I
-            discovered how much I enjoy the logical and creative sides of
-            programming. I like starting with a problem, breaking it down, and
-            figuring out how to build something that makes life a little
-            easier. There's something especially rewarding about creating a
-            solution from scratch and seeing someone actually benefit from
-            using it.
+            What I enjoy most about programming is the combination of logic and creativity. I love building things from scratch, figuring out how they work, and creating something that makes people's lives a little easier. My experience in healthcare has also taught me to approach problems from the user's perspective, not just the technical side.
           </p>
 
           <p>
-            My healthcare experience has also shaped the way I approach
-            software development. Working directly with patients, providers,
-            and other stakeholders taught me that a solution isn't necessarily
-            a good one just because it works. It also needs to make sense to
-            the people using it. I pay attention to small inefficiencies, ask
-            questions to understand what people actually need, and think about
-            how even minor improvements can make a meaningful difference.
-          </p>
-
-          <p>
-            Today, I'm continuing to develop my skills through projects in
-            machine learning, algorithms, and application development. I'm
-            excited to bring together my technical knowledge and real-world
-            experience to build software that's not only functional, but
-            genuinely useful.
+            Outside of coding, I enjoy crocheting, drawing pixel art, and sewing my own clothes. I've always liked making things with my hands and taking an idea and turning it into something real, whether it's a piece of clothing, a digital illustration, or a software project.
           </p>
         </section>
       </div>
